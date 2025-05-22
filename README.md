@@ -1,39 +1,21 @@
-<h1 align="center">✦ Yυƙι-Sυσυ-Bσƚ ✦</h1>
-
- <img src= "https://files.catbox.moe/om9jai.jpg">
+<h1 align="center">BOT PRIVADO </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=⚙️+¡INFINITY+BOT!+⚙️" alt="Typing SVG">
+</h1>
+<p>
+        <img src= "https://files.catbox.moe/dpjivg.jpg">
     </p>
+    
+<div align="center">
+ 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](blackoficial2025@gmail.com)
+[![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/THE-27)
+[![WhatsApp](https://img.shields.io/badge/OWENER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51994114690)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FlorencioAcaro)
 
-### **`❕️ Información importante`**
+</div>
 
-<details>
- <summary><b> ➮ Info • Bot</b></summary>
-
-* Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
-</details>
-
-<details>
- <summary><b> ➮ Funciones</b></summary>
-
-> Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
-
-- [x] Interacción con voz y texto
-- [x] Configuración de grupo
-- [x] antidelete, antilink, antispam, etc
-- [x] Bienvenida personalizada
-- [x] Juegos, tictactoe, mate, etc
-- [x] Chatbot (simsimi)
-- [x] Chatbot (autoresponder)
-- [x] Crear sticker de image/video/gif/url
-- [x] SubBot (Jadibot)
-- [x] Buscador Google
-- [x] Juego RPG
-- [x] Personalizar imagen del menú
-- [x] Descarga de música y video De YT
-- [ ] Otros
-
-</details>
-
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### **`✧ Click en la imagen para descargar termux ✧`**
 <a
@@ -42,7 +24,7 @@ href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><
 ### **`➮ Instalación por termux`**
 
 <details>
- <summary><b> ✎ Click para ver los Comandos </b></summary>
+ <summary><b> ✎ 𝑪𝒍𝒊𝒄𝒌 𝒑𝒂𝒓𝒂 𝒗𝒆𝒓 𝒍𝒐𝒔 𝒄𝒐𝒎𝒂𝒏𝒅𝒐𝒔 </b></summary>
 
 ### **❀ Instalación manual por termux**
 > Nota: Copie y pegue los comandos en termux uno por uno.
@@ -55,7 +37,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/The-King-Destroy/Yuki_Suou-Bot && cd Yuki_Suou-Bot
+git clone https://github.com/the-27/Infinity-Bot-MD && cd Infinity-Bot-MD
 ```
 
 ```bash
@@ -83,7 +65,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Yuki_Suou-Bot
+    cd Infinity-Bot-MD
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -92,69 +74,54 @@ npm start
     npm start
    ```
 
+#### **🔥 Obtener otro codigo qr en termux ⚡**
+
+Si después de instalar el bot en Termux y iniciar la session del bot (el numero se va a soporte, se cierra la conexión o demorastes al conectar), sigue estos pasos:
+
+1. Abre Termux y navega al directorio del bot:
+   ```bash
+    cd Shadow-Bot-MD
+   ```
+
+2. Elimina la carpeta MiniSession:
+   ```bash
+    rm -rf Sessions
+   ```
+
+3. Inicia el bot nuevamente:
+   ```bash
+    npm start
+   ```
+    
 ### **✰ Volverte owner del Bot**
 
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd Yuki_Suou-Bot && nano settings.js
+    cd Infinity-Bot-MD && nano settings.js
    ```
 
 </details>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ### **`➮ Enlaces útiles`**
-
-<details>
- <summary><b> 🜸 Enlaces Oficiales </b></summary>
-
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/CDw7hpI30WjCyKFAVLHNhZ)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa)
-</details>
 
 <details>
 <summary><b> ✰ Contáctos</b></summary>
 
-* WhatsApp: [`Aquí`](https:/Wa.me/5212202410659)
-* Correo: [`Aquí`](thekingdestroy507@gmail.com)
+* WhatsApp: [`Aquí`](https:/Wa.me/51969214380)
+* Correo: [`Aquí`](blackoficial2025@gmail.com)
 
 </details>
 
----
-
-### **`✧ SKY-ULTRA-PLUS ✧`**
-
-<a
-href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
-
-<details>
- <summary><b> ❒ Servidor Sky-Ultra-Plus</b></summary>
-
-* Dashboard : [`Dash`](https://dash.skyultraplus.com)
-* Panel : [`Panel`](https://panel.skyultraplus.com)
-* Canal de WhatsApp : [`Canal Sky`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-* Comunidad : [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
-* Contacto : [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
-
-</details>
-
----
-
-### **`❀ Colaboradores`**
-<a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
-</a>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### **`ᥫ᭡ Propietario`**
 <a
-href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
-ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
+href="https://github.com/the-27"><img src="https://github.com/the-27.png" width="130" height="130" alt="
+꧁𓊈𒆜𝖙𝖍𝖊•𝒃𝒍𝒂𝒄𝒌𒆜𓊉꧂"/></a>
 
-### **`🜸 Créditos`**
-<a href="https://github.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/DevAlexJs.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
-</a>
-<a href="https://github.com/BrunoSobrino" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="Bruno Ofc" style="border-radius: 50%;"/>
-</a>
+</details>
+
+> **[✎ mᥲძᥱ ᑲᥡ : 🌈ᵀ͢ᴴᴱ𝄟⏤͟͟͞͞⃝𝑩𝒍𝒂𝒄𝒌 ❀](https://whatsapp.com/channel/0029Vb6BDQc0lwgsDN1GJ31i)**
