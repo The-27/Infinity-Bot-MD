@@ -27,17 +27,17 @@ return res.data
 console.log(`Error : ${e}`)
 }}
   
-global.creador = 'Wa.me/5212202410659'
+global.creador = 'Wa.me/51969214380'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.namechannel = '=͟͟͞❀ 𝐘𝐮𝐤𝐢 𝐒𝐮𝐨𝐮 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⏤͟͟͞͞★'
-global.namechannel2 = '=͟͟͞❀ 𝐘𝐮𝐤𝐢 𝐒𝐮𝐨𝐮 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⏤͟͟͞͞★'
-global.namegrupo = 'ᰔᩚ ᥡᥙkі sᥙ᥆ᥙ • ᥆𝖿іᥴіᥲᥣ ❀'
-global.namecomu = 'ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥴ᥆mᥙᥒі𝗍ᥡ ❀'
-global.listo = '❀ *Aquí tienes ฅ^•ﻌ•^ฅ*'
-global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1745522645448.jpeg')
+global.namechannel = '𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐲 - 𝐁𝐨𝐭 𝐌𝐃 • ᥙ⍴ძᥲ𝗍ᥱs ⌺'
+global.namechannel2 = '𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐲- 𝐁𝐨𝐭 𝐌𝐃 • ᥲ᥎іs᥆s ⌺'
+global.namegrupo = '𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐲 - 𝐁𝐨𝐭 • ᥆𝖿іᥴіᥲᥣ ⌺'
+global.namecomu = '𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐲 -𝐁𝐨𝐭 𝐌𝐃 • ᥴ᥆mᥙᥒі𝗍ᥡ ⌺'
+global.listo = '*Aquí tienes ฅ^•ﻌ•^ฅ*'
+global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/n3f60j.jpg')
 
-global.canalIdM = ["120363416409380841@newsletter", "120363416409380841@newsletter"]
-global.canalNombreM = ["ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥙ⍴ძᥲ𝗍ᥱs ❀", "ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥲ᥎іs᥆s ❀"]
+global.canalIdM = ["120363417186717632@newsletter", "120363417186717632@newsletter", "120363417186717632@newsletter"]
+global.canalNombreM = ["──͟͞꘩𓎇̶꧁𓊈𒆜𝑇𝐻𝐸 𝐵𝐿𝐴𝐶𝐾𒆜𓊉꧂ꦁ⃯ꫂ", "̶۫̄͟𓏲𝕀𝕟𝕗𝕚𝕟𝕚𝕥𝕪-𝔸𝕀𓍲̈̄͜𓊓̵̬𝐂̸͔һ͡ᥲ͓ᥒ̴͍ᥒ̷̈ᥱ̤ᥣ̵⋆͙̈么͟͞──","──̄͟͞🅸🄽🅵🄸🅽🄸🆃🅈|ᵇᵒᵗ𓊓̴̵̻̲🚀̵̄͟"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
@@ -97,8 +97,10 @@ global.fkontak = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJ
 global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, newsletterName: channelRD.name, serverMessageId: -1 }
 }}, { quoted: m }
 
-global.icono = [
-'https://tinyurl.com/285a5ejf',
+global.icono = [ 
+'https://files.catbox.moe/ecsjyw.jpg',
+'https://files.catbox.moe/pyqdkx.jpg',
+'https://files.catbox.moe/m78lj2.jpg'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name, }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}

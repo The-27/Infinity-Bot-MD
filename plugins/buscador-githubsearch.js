@@ -31,6 +31,8 @@ m.react('✖️');
  }
 };
 
+handler.help = ['githubsearch'];
+handler.tags = ['buscador'];
 handler.command = ['githubsearch', 'gbsearch'];
 
 export default handler;
