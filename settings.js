@@ -37,7 +37,7 @@ global.nameqr = '𝑰𝒏𝒇𝒊𝒏𝒊𝒕𝒚𝑩𝒐𝒕-𝑴𝑫'
 global.namebot = '◟𝕀𝕟𝕗𝕚𝕟𝕚𝕥𝕪 𝕄𝔻◞'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
-global.yukiJadibts = true
+global.infinityJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
